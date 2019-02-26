@@ -1,0 +1,2 @@
+# Project-8-Create-a-Tableau-Story
+My goal in​ ​​project#8 was to ​create​ ​a​ ​data​ ​visualization,​ ​using​ ​Tableau,​ ​from​ ​a​ ​data​ ​set​ ​that​ ​tells​ ​a​ ​story​ ​or​ ​highlights  trends​ ​or​ ​patterns​ ​in​ ​the​ ​data.​ ​My work​ ​was supposed to​ ​be​ ​a​ ​reflection​ ​of​ ​the​ ​theory​ ​and​ ​practice​ ​of​ ​data  visualization,​ ​harnessing​ ​visual​ ​encodings​ ​and​ ​design​ ​principles​ ​for​ ​effective​ ​communication. 
